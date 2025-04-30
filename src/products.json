@@ -3,11 +3,20 @@
  [{"className" : "Masks",
  "imglink" : "https://www.shopmaskc.com/",
  "imgsrc" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWc8kEvwsoh72z3mYQqxf4WM6Tjp7D0Zkp3A&s",
- "buttonprice" : "TBD",
+ "buttonprice" : " ",
  "buttonlink" : "https://www.shopmaskc.com",
  "description" : "Multi-colored n95 masks",
  "alttext" : "n95 masks protect again 95% of air particles"
  },
+ {
+  "className" : "ClearAir",
+  "imglink" : "https://cleanaircrew.org/box-fan-filters/",
+  "imgsrc" : "https://cleanaircrew.org/wp-content/uploads/2021/08/boxfanfilter.png",
+  "buttonprice" : "$25",
+  "buttonlink" : "https://cleanaircrew.org/box-fan-filters/",
+  "description" : "Ventilate air",
+  "alttext" : "Clear the air"
+  },
  {"className" : "NasalSpray",
   "imglink" : "https://www.cvs.com/shop/xlear-saline-nasal-spray-1-5-fl-oz-prodid-1030532?skuId=608622&cgaa=QWxsb3dHb29nbGVUb0FjY2Vzc0NWU1BhZ2Vz&cid=ps_ur_pla_control&gad_source=1&gclid=EAIaIQobChMI28Tf8OW0igMVnyutBh0JxSD5EAQYASABEgK06_D_BwE&gclsrc=aw.ds",
   "imgsrc" : "https://www.cvs.com/bizcontent/merchandising/productimages/high_res/70059600000.jpg?im=Resize=(1000,1000),aspect=ignore",
@@ -25,19 +34,10 @@
   "description" : "Nasal spray: Algae",
   "alttext" : "Nasal spray: algae"
   },
-  {
-  "className" : "ClearAir",
-  "imglink" : "https://cleanaircrew.org/box-fan-filters/",
-  "imgsrc" : "https://cleanaircrew.org/wp-content/uploads/2021/08/boxfanfilter.png",
-  "buttonprice" : "$25",
-  "buttonlink" : "https://cleanaircrew.org/box-fan-filters/",
-  "description" : "Ventilate air",
-  "alttext" : "Clear the air"
-  },
   {"className" : "Novavax",
   "imglink" : "https://www.facebook.com/groups/457417809290508 ",
   "imgsrc" : "https://images.wsj.net/im-720248?width=1280&size=1",
-  "buttonprice" : "Free",
+  "buttonprice" : "Every 4-6 Months ",
   "buttonlink" : "https://www.facebook.com/groups/457417809290508 ",
   "description" : "Novavax Vaccine",
   "alttext" : "Novavax Covid Vaccine"
@@ -53,15 +53,24 @@
 ],
 
  "duringcovid" : 
- [{
-  "className" : "Rest",
-  "imglink" : "https://www.npr.org/sections/health-shots/2022/04/01/1089997121/light-disrupts-sleep",
-  "imgsrc" : "https://media.npr.org/assets/img/2022/03/31/sleeping-light-1_custom-d7413d29cbc3393e0ca79c6225b447eda10107a0.jpg?s=1100&c=85&f=webp",
-  "buttonprice" : "",
-  "buttonlink" : "https://time.com/6215346/covid-19-rest-helps/",
-  "description" : "Rest and sleep",
-  "alttext" : "A person sleeping in a dim room"
- },{
+ [ {"className" : "Sunlight",
+ "imglink" : "https://www.cedars-sinai.org/newsroom/study-reveals-ultraviolet-light-exposure-has-antiviral-effects-on-covid-19-variants/",
+ "imgsrc" : "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-560w,f_avif,q_auto:eco,dpr_2/newscms/2017_13/1204667/woman-breathing-outside-cold-stock-today-170331-tease.jpg",
+ "buttonprice" : " ",
+ "buttonlink" : "https://www.cedars-sinai.org/newsroom/study-reveals-ultraviolet-light-exposure-has-antiviral-effects-on-covid-19-variants/",
+ "description" : "Sunlight",
+ "alttext" : "sun exposure"
+},
+{
+  "className" : "SeparateEveryone",
+  "imglink" : "https://whn.global/guidelines/taking-care-of-an-ill-person/",
+  "imgsrc" : "https://themarkconsulting.com/wp-content/uploads/2015/07/fish.jpg",
+  "buttonprice" : " ",
+  "buttonlink" : "https://www.google.cm/search?q=hotels+near+me",
+  "description" : "Isolate",
+  "alttext" : "Fish jumping out of one bowl to another"
+  },
+{
   "className" : "Neti-pot",
   "imglink" : "https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=neti+pot&_sacat=0&_odkw=neti+pots&_osacat=0&_nls=2&_dmd=2",
   "imgsrc" : "https://www.avivahealth.com/cdn/shop/products/estie-the-elephant-neti-pot_1024x1024@2x.jpg?v=1653419656",
@@ -70,15 +79,6 @@
   "description" : "Nasal irrigation",
   "alttext" : "neti pot"
  },
- {
-  "className" : "SeparateEveryone",
-  "imglink" : "https://whn.global/guidelines/taking-care-of-an-ill-person/",
-  "imgsrc" : "https://themarkconsulting.com/wp-content/uploads/2015/07/fish.jpg",
-  "buttonprice" : "Free",
-  "buttonlink" : "https://www.google.cm/search?q=hotels+near+me",
-  "description" : "Isolate",
-  "alttext" : "Fish jumping out of one bowl to another"
-  },
   {"className" : "Probiotics",
   "imglink" : "https://seed.com/daily-synbiotic",
   "imgsrc" : "https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1610475235/daily-synbiotic/Seed_PDP_01_Hero_1_NEW.jpg",
@@ -87,14 +87,15 @@
   "description" : "Probiotics",
   "alttext" : "probiotics"
   },
-  {"className" : "Sunlight",
-  "imglink" : "https://www.cedars-sinai.org/newsroom/study-reveals-ultraviolet-light-exposure-has-antiviral-effects-on-covid-19-variants/",
-  "imgsrc" : "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-560w,f_avif,q_auto:eco,dpr_2/newscms/2017_13/1204667/woman-breathing-outside-cold-stock-today-170331-tease.jpg",
-  "buttonprice" : "Free",
-  "buttonlink" : "https://www.cedars-sinai.org/newsroom/study-reveals-ultraviolet-light-exposure-has-antiviral-effects-on-covid-19-variants/",
-  "description" : "Sunlight",
-  "alttext" : "sun exposure"
-},
+{
+  "className" : "Rest",
+  "imglink" : "https://www.npr.org/sections/health-shots/2022/04/01/1089997121/light-disrupts-sleep",
+  "imgsrc" : "https://media.npr.org/assets/img/2022/03/31/sleeping-light-1_custom-d7413d29cbc3393e0ca79c6225b447eda10107a0.jpg?s=1100&c=85&f=webp",
+  "buttonprice" : "",
+  "buttonlink" : "https://time.com/6215346/covid-19-rest-helps/",
+  "description" : "Rest and sleep",
+  "alttext" : "A person sleeping in a dim room"
+ },
   {"className" : "Melatonin",
   "imglink" : "https://www.walgreens.com/store/c/natrol-melatonin-5mg,-sleep-support,-extra-strength,-time-release-tablets/ID=prod3950575-product",
   "imgsrc" : "https://pics.walgreens.com/prodimg/162647/900.jpg",
@@ -114,7 +115,7 @@
   {"className" : "Cannabis",
   "imglink" : "https://academic.oup.com/jambio/article/134/1/lxac036/6902073",
   "imgsrc" : "https://cdn.britannica.com/38/205238-050-8BD2530A/Close-up-marijuana-plant.jpg",
-  "buttonprice" : "TBD",
+  "buttonprice" : " ",
   "buttonlink" : "https://www.google.com/search?q=closest+dispensary+to+me",
   "description" : "Cannabis",
   "alttext" : "Cannabis"
@@ -122,7 +123,7 @@
 { "className" : "Tea",
   "imglink" : "https://newswire.caes.uga.edu/story/10391/covid-tea.html",
   "imgsrc" : "https://www.thespruceeats.com/thmb/Pq1dH05CSZbep0zMc9Zs3luEsGw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Herbal-tea-bag-582e1a743df78c6f6a29ef11.jpg",
-  "buttonprice" : "Cheap",
+  "buttonprice" : " ",
   "buttonlink" : "https://newswire.caes.uga.edu/story/10391/covid-tea.html",
   "description" : "Green or Black Tea",
   "alttext" : "tea bag"
@@ -134,7 +135,26 @@
 "buttonlink" : "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8581659/",
 "description" : "Raw, cooked garlic",
 "alttext" : "garlic bulb"
-}],
+}, 
+{  
+  "className" : "OreganOil4Viruses",
+  "imglink" : "https://www.healthline.com/health/oregano-oil-for-cold",
+  "imgsrc" : "https://media.post.rvohealth.io/wp-content/uploads/2020/09/5766-Oregano_Oil-732x549-thumbnail.jpg",
+  "buttonprice" : "$30",
+  "buttonlink" : "https://www.healthline.com/health/oregano-oil-for-cold",
+  "description" : "Oregano Oil",
+  "alttext" : "Oregano Oil"
+},
+{
+  "className" : "Antihistamine",
+  "imglink" : "https://kimballerobyzen.com/nutrition-hub-diet-guidelines/histamine-diet/",
+  "imgsrc" : "https://londonchestspecialist.co.uk/wp-content/uploads/2023/07/lily-banse-YHSwy6uqvk-unsplash.jpg.webp",
+  "buttonprice" : "",
+  "buttonlink" : "https://www.healthline.com/health/oregano-oil-for-cold",
+  "description" : "Anti-histamine diet",
+  "alttext" : "fresh foods"
+}
+],
 
 
   "healcovid" : 
@@ -158,17 +178,17 @@
   {"className" : "Novavax",
   "imglink" : "https://www.facebook.com/groups/457417809290508 ",
   "imgsrc" : "https://images.wsj.net/im-720248?width=1280&size=1",
-  "buttonprice" : "Free",
+  "buttonprice" : "",
   "buttonlink" : "https://www.facebook.com/groups/457417809290508 ",
   "description" : "Novavax Vaccine",
   "alttext" : "Novavax Covid Vaccine"
   },
-  {"className" : "",
-  "imglink" : "",
-  "imgsrc" : "",
+  {"className" : "AntiInflammaation",
+  "imglink" : "https://www.mayoclinichealthsystem.org/hometown-health/speaking-of-health/want-to-ease-chronic-inflammation",
+  "imgsrc" : "https://images.immediate.co.uk/production/volatile/sites/30/2022/04/Top-10-anti-inflammatory-foods-ff69255.jpg",
   "buttonprice" : "",
-  "buttonlink" : "",
-  "description" : "",
-  "alttext" : ""
+  "buttonlink" : "https://www.mayoclinichealthsystem.org/hometown-health/speaking-of-health/want-to-ease-chronic-inflammation",
+  "description" : "Anti-Inflammation diet",
+  "alttext" : "Anti-Inflammation diet"
   }
 ]}
