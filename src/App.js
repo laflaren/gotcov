@@ -16,6 +16,7 @@ function DelayedPopup() {
   }, []);
 
   return (
+    
     <div>
       {showPopup && (
         <div className="popup">
@@ -30,7 +31,6 @@ function DelayedPopup() {
 function App() {
   return (
     <div className="App">
-
       <DelayedPopup />
       <header className="App-header">
       <h1> Manage Covid </h1>
