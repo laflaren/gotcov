@@ -44,7 +44,7 @@ function App() {
       Learn to prevent Covid, and recover from SARS and SARS2
     </h3>
       </header>
-      This is an low-risk, and researched ways to avoid the health issues that come from covid. 
+      This is an low-risk, and researched ways to avoid the health issues that come from Covid. 
 
       <p> 
      <h1> Preventing Covid: </h1>
