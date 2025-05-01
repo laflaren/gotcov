@@ -79,11 +79,11 @@ function App() {
   <p> Sick? Here's a suggested schedule.  </p>
   
   <p> Main priorities:   <br /> 
-  1. REST, 
-  <br /> 2. medicate,  <br /> 3. be outside    <br />
+  1. REST 
+  <br /> 2. medicate  <br /> 3. be outside    <br />
   4. clean you nasal passages* 
   <br />*If you don't have time to find a neti pot, try using a clean gravy boat or tea pot. 
-  <br />This will ultimately help protect your brain from viral damage: 
+  <br />It will help protect your brain from viral damage, as illustrated here: 
   <br />
   <a href='https://www.quora.com/Does-nasal-cavity-lead-to-the-brain'>https://www.quora.com/Does-nasal-cavity-lead-to-the-brain </a>
   </p>
@@ -168,7 +168,7 @@ Here's a playlist to help you stay calm:
       <h5> 
       This guide could save you hundred$ in hospital bills.
       <br />
-      Pay it forward. <br /> Venmo $20 to @preventable to keep this work going! 
+      Pay it forward. <br /> Venmo $20 to @preventable to keep this work going, or to contact and send feedback. 
       </h5>
       <p>  
       Sources: 
