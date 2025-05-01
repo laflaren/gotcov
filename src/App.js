@@ -41,7 +41,7 @@ function App() {
         </title>
 
       <h3> 
-      Learn to prevent Covid, and recover from SARS and SARS2
+      Prevent Covid & recover from SARS and SARS2
     </h3>
       </header>
       This is an low-risk, and researched ways to avoid the health issues that come from Covid. 
@@ -49,9 +49,12 @@ function App() {
       <p> 
      <h1> Preventing Covid: </h1>
   Half the Covid cases are asymptomatic.
+  This guide could save you hundreds of dollars in medical bills. <br /> 
   If you follow this protocol, you'll never get infected again. </p> 
   <p> Reminder: higher risk severe effects is EVERYONE, and especially the person who's Black or Brown, female, and immunocompromised. 
+  <br /> 
   You literally cannot tell when someone's contagious or not. 
+
   It's constantly mutating and evading immunity. 
   </p>
 <div className='productz'>
@@ -61,12 +64,13 @@ function App() {
       {products.preventcov.map((preventcov) => ( //map has to be on ARRAY, not object 
    <div className='buddysys'> 
       <img src={preventcov.imgsrc} alt={preventcov.alttext} /> 
-      <br />
-      <button className variant="danger">{preventcov.buttonprice} <br></br>
-      {preventcov.description}
+      <br /> 
 
+      <button className variant="danger"> 
+      {preventcov.buttonprice}
+      <br />
+      {preventcov.description}
       </button>
-    
       </div> 
  
       ))}
@@ -76,16 +80,16 @@ function App() {
     
     <div className='section2'>
     <h1> Managing an infection: </h1>
-  <p> Sick? Here's a suggested schedule.  </p>
+  <p> Sick? The key is keep the viral load low, and to discourage replication in your body. Here's a suggested schedule to do just that.  </p>
   
   <p> Main priorities:   <br /> 
-  1. REST 
-  <br /> 2. medicate  <br /> 3. be outside    <br />
-  4. clean you nasal passages* 
+  1. Rest 
+  <br /> 2. Medicate  <br /> 3. Outside    <br />
+  4. Clear nasal passages* 
   <br />*If you don't have time to find a neti pot, try using a clean gravy boat or tea pot. 
   <br />It will help protect your brain from viral damage, as illustrated here: 
   <br />
-  <a href='https://www.quora.com/Does-nasal-cavity-lead-to-the-brain'>https://www.quora.com/Does-nasal-cavity-lead-to-the-brain </a>
+  <a href='https://www.quora.com/Does-nasal-cavity-lead-to-the-brain'> www.quora.com/Does-nasal-cavity-lead-to-the-brain </a>
   </p>
 
   <div className="centeredBox">
@@ -101,16 +105,16 @@ function App() {
   <ol> 🌤️ Midday: </ol>
   <li> Get outside in sunlight as much as possible, while unmasked as much as possible to kill and release viral load </li>
   <li> Outside sunlight as much as possible/ unmasked as much as possible to realease viral load. </li>
-
+  <li> Probiotics </li>
   <li> Gargle tea to disrupt virus's replication </li>
   <li> Any cannabis with THC is good to take before too late in the evening </li>
 
 
   <ol> 🌙 Evening: </ol>
+  <li> Paxlovid or other antiviral </li>
   <li> Outside sunlight as much as possible/ unmasked as much as possible to realease viral load. </li>
   <li> Gargle herbal tea </li>
   <li> Melatonin </li>
-  <li> Paxlovid or other antiviral </li>
   <li> Metformin </li>
   <li> What your favorite comedy or easy to digest show </li>
   <li> Take a night anti-histamine to help with common histamine  reactions and help sleep</li>
@@ -141,11 +145,11 @@ Here's a playlist to help you stay calm:
     Let's start healing: </p>
         First, keep taking foods that can reduce blood clots daily: turmeric, garlic, cayenne pepper, ginger, cinnamon, primrose oil, aloe, etc.
         <br />
-        <a href='https://www.medicalnewstoday.com/articles/322384'> https://www.medicalnewstoday.com/articles/322384 </a>
+        <a href='https://www.medicalnewstoday.com/articles/322384'> www.medicalnewstoday.com/articles/322384 </a>
         <br />
         and avoid blood-clotting foods 
         <br /> 
-        <a href='https://www.livestrong.com/article/323888-list-of-blood-thinning-foods/'> https://www.livestrong.com/article/323888-list-of-blood-thinning-foods/ </a>
+        <a href='https://www.livestrong.com/article/323888-list-of-blood-thinning-foods/'> www.livestrong.com/article/323888-list-of-blood-thinning-foods/ </a>
     <div className="healCov"> 
       {products.healcovid.map(healcovid =>
         <div className='buddysys'> <img src={healcovid.imgsrc} alt={healcovid.alttext} />
@@ -166,16 +170,18 @@ Here's a playlist to help you stay calm:
     
     <footer className='Footer'>
       <h5> 
-      This guide could save you hundred$ in hospital bills.
       <br />
-      Pay it forward. <br /> Venmo $20 to @preventable to keep this work going, or to contact and send feedback. 
+      Contact & feedback: <br /> Venmo $20 to @preventable to keep this work going. 
       </h5>
+      <br />   <br />   <br /> 
+
       <p>  
+    
       Sources: 
       <br />
-      LongCovidPharmD's Substack <a href="https://pharmd.substack.com/p/i-have-covid-what-should-my-kids"> https://pharmd.substack.com/p/i-have-covid-what-should-my-kids </a> 
+      LongCovidPharmD's Substack <a href="https://pharmd.substack.com/p/i-have-covid-what-should-my-kids"> pharmd.substack.com/p/i-have-covid-what-should-my-kids </a> 
       <br />
-      People's CDC <a href="https://peoplescdc.org/2023/01/10/what-to-do-if-you-have-covid/"> https://peoplescdc.org/2023/01/10/what-to-do-if-you-have-covid/ </a> 
+      People's CDC <a href="https://peoplescdc.org/2023/01/10/what-to-do-if-you-have-covid/"> peoplescdc.org/2023/01/10/what-to-do-if-you-have-covid/ </a> 
 
       </p> 
     </footer>
