@@ -157,16 +157,19 @@ Here's a playlist to help you stay calm:
       )}
     </div>
     If you're still having linger symptoms after 2-3 months, there are many resources to help you find ways to manage or heal from those symptoms: 
-    <a href='https://www.facebook.com/search/groups/?q=long%20covid%20'> a quick search on social media </a>
+    <a href='https://www.facebook.com/search/groups/?q=long%20covid%20'> a quick search on facebook shows you many communities. </a>
     </div>
     </div>
 
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Coronavirus._SARS-CoV-2.png/1920px-Coronavirus._SARS-CoV-2.png" className="App-logo" alt="SARS virus rotating" />
 
     
     <footer className='Footer'>
-      <h4> 
-      Venmo: @preventable
-      </h4>
+      <h5> 
+      This guide could save you hundred$ in hospital bills.
+      <br />
+      Pay it forward. <br /> Venmo $20 to @preventable to keep this work going! 
+      </h5>
       <p>  
       Sources: 
       <br />
