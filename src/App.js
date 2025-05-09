@@ -1,6 +1,7 @@
 import './App.css';
 import React, { useState, useEffect } from "react";
 import products from './products.json';
+// import { Link } from 'react-router-dom';
 import 'bootstrap/dist/css/bootstrap.css';
 // import Button from 'react-bootstrap/Button';
 
@@ -45,15 +46,14 @@ function App() {
     </h3>
       </header>
       This is an low-risk, and researched ways to avoid the health issues that come from Covid. 
-
+      <br /> 
+      <br /> 
       <p> 
      <h1> Preventing Covid: </h1>
   Half the Covid cases are asymptomatic.
   This guide could save you hundreds of dollars in medical bills. <br /> 
-  If you follow this protocol, you'll never get infected again. </p> 
-  <p> Reminder: higher risk severe effects is EVERYONE, and especially the person who's Black or Brown, female, and immunocompromised. 
-  <br /> 
-  You literally cannot tell when someone's contagious or not. 
+  If you follow this protocol, you may never get infected again. </p> 
+  <p> Reminder: higher risk severe effects is EVERYONE, and especially the person who have <a href="https://nosscr.org/disability-recipients-nearly-7-times-more-likely-to-die-of-covid-19-according-to-ssa-data/"> disabilities</a>, <a href='https://pmc.ncbi.nlm.nih.gov/articles/PMC8586903/'> are Black and/or Brown</a>, <a href="https://www.them.us/story/long-covid-trans-and-bisexual-people-healthcare-disparities" > as well those who are trans and queer</a>. You literally cannot tell when someone's contagious or not. 
 
   It's constantly mutating and evading immunity. 
   </p>
@@ -63,7 +63,8 @@ function App() {
     <div className="preventCov"> 
       {products.preventcov.map((preventcov) => ( //map has to be on ARRAY, not object 
    <div className='buddysys'> 
-      <img src={preventcov.imgsrc} alt={preventcov.alttext} /> 
+      <img src={preventcov.imgsrc} 
+      alt={preventcov.alttext} /> 
       <br /> 
 
       <button className variant="danger"> 
@@ -71,6 +72,7 @@ function App() {
       <br />
       {preventcov.description}
       </button>
+ 
       </div> 
  
       ))}
@@ -106,8 +108,7 @@ function App() {
   <li> Get outside in sunlight as much as possible, while unmasked as much as possible to kill and release viral load </li>
   <li> Outside sunlight as much as possible/ unmasked as much as possible to realease viral load. </li>
   <li> Probiotics </li>
-  <li> Gargle tea to disrupt virus's replication </li>
-  <li> Any cannabis with THC is good to take before too late in the evening </li>
+  <li> Gargle and consume herbal tea to disrupt virus's replication </li>
 
 
   <ol> 🌙 Evening: </ol>
@@ -116,8 +117,9 @@ function App() {
   <li> Gargle herbal tea </li>
   <li> Melatonin </li>
   <li> Metformin </li>
+  <li> Any cannabis with THC is good to take before too late in the evening </li>
   <li> What your favorite comedy or easy to digest show </li>
-  <li> Take a night anti-histamine to help with common histamine  reactions and help sleep</li>
+  <li> Take a night-friendly anti-histamine to help with <a href='https://pmc.ncbi.nlm.nih.gov/articles/PMC9903129/'> common histamine reactions </a> and help with deeper sleep </li>
   </div>
 </div>
 
