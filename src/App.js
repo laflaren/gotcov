@@ -104,6 +104,7 @@ function App() {
 
   <div className="centeredBox">
   <ol> ☀️ Morning: </ol>
+  <li> ASK FOR HELP. This is what friends and family are for. Ask for help with meals and medications. It can be hard, but do it first to get it out of the ways. </li>
   <li> Paxlovid or other antiviral </li>
   <li> Moisten nostrils with shower or warm beverage, blow nose, and spray nostrils with nasal spray </li>
   <li> Outside sunlight as much as possible/ unmasked as much as possible to realease viral load. </li>
@@ -175,7 +176,6 @@ Calm music for relaxation:
     </div>
     </div>
 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Coronavirus._SARS-CoV-2.png/1920px-Coronavirus._SARS-CoV-2.png" className="App-logo" alt="SARS virus rotating" />
 
     
     <footer className='Footer'>

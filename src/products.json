@@ -79,6 +79,15 @@
   "description" : "Nasal irrigation",
   "alttext" : "neti pot"
  },
+ {
+  "className" : "SeekHelp",
+  "imglink" : "https://thumbs.dreamstime.com/b/sick-office-employee-sneezing-man-wrapped-warm-blanket-phone-call-suffering-cold-fever-flu-sick-office-employee-sneezing-357485012.jpg",
+  "imgsrc" : "https://thumbs.dreamstime.com/b/sick-office-employee-sneezing-man-wrapped-warm-blanket-phone-call-suffering-cold-fever-flu-sick-office-employee-sneezing-357485012.jpg",
+  "buttonprice" : " ",
+  "buttonlink" : "https://www.google.cm/search?q=hotels+near+me",
+  "description" : "Seek Help",
+  "alttext" : "Coughing on the phone"
+  }, 
   {"className" : "Probiotics",
   "imglink" : "https://seed.com/daily-synbiotic",
   "imgsrc" : "https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1610475235/daily-synbiotic/Seed_PDP_01_Hero_1_NEW.jpg",
