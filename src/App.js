@@ -34,26 +34,34 @@ function App() {
     <div className="App">
       <DelayedPopup />
       <header className="App-header">
-      <h1> Manage Covid </h1>
-
-        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Coronavirus._SARS-CoV-2.png/1920px-Coronavirus._SARS-CoV-2.png" className="App-logo" alt="SARS virus rotating" />
-        <title>
+         <title>
           Avoid & manage Covid
         </title>
 
-      <h3> 
-      Prevent Covid & recover from SARS and SARS2
-    </h3>
-      </header>
-      This is an low-risk, and researched ways to avoid the health issues that come from Covid. 
+      <h1> Fighting Covid 
+      <br /> 
+      is easy & affordable </h1>
+          <h4> 
+      Prevent & recover from SARS/2      
+      <br /> using scientific studies, simple tools you have
+          </h4>
+
+        <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Coronavirus._SARS-CoV-2.png/1920px-Coronavirus._SARS-CoV-2.png" className="App-logo" alt="SARS virus rotating" />
+     
+         
+  </header>
+     
+
+
+      This is an low-risk, tried ways to avoid the health issues that result from Covid. 
       <br /> 
       <br /> 
       <p> 
-     <h1> Preventing Covid: </h1>
+     <h2> Preventing Covid: </h2>
   Half the Covid cases are asymptomatic.
   This guide could save you hundreds of dollars in medical bills. <br /> 
   If you follow this protocol, you may never get infected again. </p> 
-  <p> Reminder: higher risk severe effects is EVERYONE, and especially the person who have <a href="https://nosscr.org/disability-recipients-nearly-7-times-more-likely-to-die-of-covid-19-according-to-ssa-data/"> disabilities</a>, <a href='https://pmc.ncbi.nlm.nih.gov/articles/PMC8586903/'> are Black and/or Brown</a>, <a href="https://www.them.us/story/long-covid-trans-and-bisexual-people-healthcare-disparities" > as well those who are trans and queer</a>. You literally cannot tell when someone's contagious or not. 
+  <p> Reminder: higher risk severe effects is EVERYONE, and especially the person who have <a href="https://nosscr.org/disability-recipients-nearly-7-times-more-likely-to-die-of-covid-19-according-to-ssa-data/"> disabilities</a>, <a href='https://pmc.ncbi.nlm.nih.gov/articles/PMC8586903/'> are Black and/or Brown</a>, <a href="https://www.them.us/story/long-covid-trans-and-bisexual-people-healthcare-disparities" > as well those who are trans and queer</a>. <br /> You literally cannot tell when someone's contagious or not. 
 
   It's constantly mutating and evading immunity. 
   </p>
@@ -81,7 +89,7 @@ function App() {
 
     
     <div className='section2'>
-    <h1> Managing an infection: </h1>
+    <h2> Managing an active infection: </h2>
   <p> Sick? The key is keep the viral load low, and to discourage replication in your body. Here's a suggested schedule to do just that.  </p>
   
   <p> Main priorities:   <br /> 
@@ -119,11 +127,11 @@ function App() {
   <li> Metformin </li>
   <li> Any cannabis with THC is good to take before too late in the evening </li>
   <li> What your favorite comedy or easy to digest show </li>
-  <li> Take a night-friendly anti-histamine to help with <a href='https://pmc.ncbi.nlm.nih.gov/articles/PMC9903129/'> common histamine reactions </a> and help with deeper sleep </li>
+  <li> Take a night-friendly anti-histamine to help with <a href='https://pmc.ncbi.nlm.nih.gov/articles/PMC9903129/'> common histamine reactions</a> and help with deeper sleep </li>
   </div>
 </div>
 
-Here's a playlist to help you stay calm: 
+Calm music for relaxation: 
   <iframe style={{"borderRadius":"12px"}} src="https://open.spotify.com/embed/playlist/37i9dQZF1DX1T2fEo0ROQ2?utm_source=generator&theme=0" width="90%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy">
   </iframe>
 
@@ -141,7 +149,7 @@ Here's a playlist to help you stay calm:
           
         )}
       </div>
-        <h1> Post-Viral Care </h1>
+        <h2> Post-Viral Care </h2>
     <p>  Congratulations! So you made out of the acute phase of the virus, usually the worst part. 
     <br />
     Let's start healing: </p>
@@ -173,7 +181,7 @@ Here's a playlist to help you stay calm:
     <footer className='Footer'>
       <h5> 
       <br />
-      Contact & feedback: <br /> Venmo $20 to @preventable to keep this work going. 
+      Contact & feedback: <br /> Venmo $20 to @preventable to keep <link rel="icon" href="favicon.ico" /> this work going. 
       </h5>
       <br />   <br />   <br /> 
 
@@ -184,6 +192,8 @@ Here's a playlist to help you stay calm:
       LongCovidPharmD's Substack <a href="https://pharmd.substack.com/p/i-have-covid-what-should-my-kids"> pharmd.substack.com/p/i-have-covid-what-should-my-kids </a> 
       <br />
       People's CDC <a href="https://peoplescdc.org/2023/01/10/what-to-do-if-you-have-covid/"> peoplescdc.org/2023/01/10/what-to-do-if-you-have-covid/ </a> 
+
+      Jessica Wildfire's advice on how to avoid getting it while someone else is contagious <a href='https://substack.com/home/post/p-169629289'> substack.com/home/post/p-169629289 </a>
 
       </p> 
     </footer>
