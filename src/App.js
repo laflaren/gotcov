@@ -181,7 +181,8 @@ Calm music for relaxation:
     <footer className='Footer'>
       <h5> 
       <br />
-      Contact & feedback: <br /> Venmo $20 to @preventable to keep <link rel="icon" href="favicon.ico" /> this work going. 
+      Thank you for your support! 
+      <br/> Contact & feedback: <br /> Venmo $20 to @preventable to keep <link rel="icon" href="favicon.ico" /> this work going. 
       </h5>
       <br />   <br />   <br /> 
 
