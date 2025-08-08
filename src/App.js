@@ -203,8 +203,8 @@ Calm music for relaxation:
       LongCovidPharmD's Substack <a href="https://pharmd.substack.com/p/i-have-covid-what-should-my-kids"> pharmd.substack.com/p/i-have-covid-what-should-my-kids </a> 
       <br />
       People's CDC <a href="https://peoplescdc.org/2023/01/10/what-to-do-if-you-have-covid/"> peoplescdc.org/2023/01/10/what-to-do-if-you-have-covid/ </a> 
-
-      Jessica Wildfire's advice on how to avoid getting it while someone else is contagious <a href='https://substack.com/home/post/p-169629289'> substack.com/home/post/p-169629289 </a>
+      <br /> 
+      Expert advice on how to avoid infection while caring for others <a href='https://substack.com/home/post/p-169629289'> substack.com/home/post/p-169629289 </a>
 
       </p> 
     </footer>
