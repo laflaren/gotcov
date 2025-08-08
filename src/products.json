@@ -34,13 +34,13 @@
   "description" : "Nasal spray: Algae",
   "alttext" : "Nasal spray: algae"
   },
-  {"className" : "Novavax",
+  {"className" : "Moderna",
   "imglink" : "https://www.facebook.com/groups/457417809290508 ",
   "imgsrc" : "https://images.wsj.net/im-720248?width=1280&size=1",
   "buttonprice" : "Every 4-6 Months ",
   "buttonlink" : "https://www.facebook.com/groups/457417809290508 ",
-  "description" : "Novavax Vaccine",
-  "alttext" : "Novavax Covid Vaccine"
+  "description" : "Moderna Vaccine",
+  "alttext" : "Moderna Covid Vaccine"
   },
   {"className" : "",
   "imglink" : "",
@@ -85,7 +85,7 @@
   "imgsrc" : "https://thumbs.dreamstime.com/b/sick-office-employee-sneezing-man-wrapped-warm-blanket-phone-call-suffering-cold-fever-flu-sick-office-employee-sneezing-357485012.jpg",
   "buttonprice" : " ",
   "buttonlink" : "https://www.google.cm/search?q=hotels+near+me",
-  "description" : "Seek Help",
+  "description" : "Seek Assistance",
   "alttext" : "Coughing on the phone"
   }, 
   {"className" : "Probiotics",

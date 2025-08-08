@@ -22,7 +22,7 @@ function DelayedPopup() {
       {showPopup && (
         <div className="popup">
           <img src="data:image/svg+xml;base64,PHN2ZyB3aWR0aD0iMjExIiBoZWlnaHQ9IjQxIiB2aWV3Qm94PSIwIDAgMjExIDQxIiBmaWxsPSJub25lIiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPgogIDxwYXRoIGQ9Ik0zNC41NzcxIDAuODIyMDIxQzM1Ljk5NzQgMy4xNjczMyAzNi42Mzc3IDUuNTgzMDEgMzYuNjM3NyA4LjYzNDUxQzM2LjYzNzcgMTguMzY3MiAyOC4zMjc3IDMxLjAxMDcgMjEuNTgzMiAzOS44ODg4SDYuMTc4MjVMMCAyLjk1Mjk2TDEzLjQ4ODcgMS42NzI1OEwxNi43NTUyIDI3Ljk1NDhDMTkuODA3NCAyMi45ODM0IDIzLjU3MzggMTUuMTcxIDIzLjU3MzggOS44NDQ1M0MyMy41NzM4IDYuOTI5MDIgMjMuMDc0MyA0Ljk0MzE4IDIyLjI5MzUgMy4zMDgwNkwzNC41NzcxIDAuODIyMDIxWiIgZmlsbD0iIzAwOENGRiIvPgogIDxwYXRoIGQ9Ik01Mi4wNTk1IDE3LjA4ODdDNTQuNTQxNyAxNy4wODg3IDYwLjc5MDcgMTUuOTUzNCA2MC43OTA3IDEyLjQwMjRDNjAuNzkwNyAxMC42OTczIDU5LjU4NDggOS44NDY3NiA1OC4xNjM3IDkuODQ2NzZDNTUuNjc3NiA5Ljg0Njc2IDUyLjQxNSAxMi44Mjc1IDUyLjA1OTUgMTcuMDg4N1pNNTEuNzc1MSAyNC4xMjE0QzUxLjc3NTEgMjguNDU3MyA1NC4xODY1IDMwLjE1ODQgNTcuMzgzNCAzMC4xNTg0QzYwLjg2NDcgMzAuMTU4NCA2NC4xOTc5IDI5LjMwNzggNjguNTMwMyAyNy4xMDY1TDY2Ljg5ODUgMzguMTg1MkM2My44NDYgMzkuNjc2MyA1OS4wODg4IDQwLjY3MTMgNTQuNDcxMyA0MC42NzEzQzQyLjc1ODQgNDAuNjcxMyAzOC41NjY0IDMzLjU2OTMgMzguNTY2NCAyNC42OTA4QzM4LjU2NjQgMTMuMTgzNCA0NS4zODUzIDAuOTY0NiA1OS40NDM2IDAuOTY0NkM2Ny4xODM3IDAuOTY0NiA3MS41MTE3IDUuMzAwMTMgNzEuNTExNyAxMS4zMzcxQzcxLjUxMjQgMjEuMDY5NSA1OS4wMTg4IDI0LjA1MSA1MS43NzUxIDI0LjEyMTRaIiBmaWxsPSIjMDA4Q0ZGIi8+CiAgPHBhdGggZD0iTTExMC40MzkgOS4zNDgzNUMxMTAuNDM5IDEwLjc2ODcgMTEwLjIyNCAxMi44Mjg5IDExMC4wMDkgMTQuMTc1M0wxMDUuOTYyIDM5Ljc0NzRIOTIuODI3NUw5Ni41MTk2IDE2LjMwNTlDOTYuNTg5NiAxNS42NzAxIDk2LjgwNDggMTQuMzkwMSA5Ni44MDQ4IDEzLjY3OTlDOTYuODA0OCAxMS45NzQ3IDk1LjczOTMgMTEuNTQ5MyA5NC40NTgzIDExLjU0OTNDOTIuNzU2OCAxMS41NDkzIDkxLjA1MTMgMTIuMzI5OCA4OS45MTU1IDEyLjg5OTdMODUuNzI3OCAzOS43NDc3SDcyLjUxOTVMNzguNTUzNyAxLjQ2MTg1SDg5Ljk4NTVMOTAuMTMwMiA0LjUxNzczQzkyLjgyNzIgMi43NDIyNCA5Ni4zNzg1IDAuODIyMDIyIDEwMS40MTcgMC44MjIwMjJDMTA4LjA5MyAwLjgyMTI5MiAxMTAuNDM5IDQuMjMxOSAxMTAuNDM5IDkuMzQ4MzVaIiBmaWxsPSIjMDA4Q0ZGIi8+CiAgPHBhdGggZD0iTTE0OS40MzIgNS4xNTU3N0MxNTMuMTk0IDIuNDU5MzYgMTU2Ljc0NiAwLjk2NDYgMTYxLjY0MyAwLjk2NDZDMTY4LjM4NyAwLjk2NDYgMTcwLjczMyA0LjM3NTIxIDE3MC43MzMgOS40OTE2N0MxNzAuNzMzIDEwLjkxMjEgMTcwLjUxOCAxMi45NzIzIDE3MC4zMDQgMTQuMzE4N0wxNjYuMjYxIDM5Ljg5MDdIMTUzLjEyM0wxNTYuODg2IDE1Ljk1MzhDMTU2Ljk1NSAxNS4zMTM5IDE1Ny4xMDEgMTQuNTMzNCAxNTcuMTAxIDE0LjAzODNDMTU3LjEwMSAxMi4xMTg0IDE1Ni4wMzUgMTEuNjkyNiAxNTQuNzU0IDExLjY5MjZDMTUzLjEyMyAxMS42OTI2IDE1MS40OTIgMTIuNDAyOCAxNTAuMjgxIDEzLjA0M0wxNDYuMDk0IDM5Ljg5MTFIMTMyLjk2TDEzNi43MjIgMTUuOTU0MUMxMzYuNzkxIDE1LjMxNDMgMTM2LjkzMyAxNC41MzM4IDEzNi45MzMgMTQuMDM4N0MxMzYuOTMzIDEyLjExODggMTM1Ljg2NiAxMS42OTMgMTM0LjU5IDExLjY5M0MxMzIuODg1IDExLjY5MyAxMzEuMTgzIDEyLjQ3MzUgMTMwLjA0NyAxMy4wNDM0TDEyNS44NTYgMzkuODkxNUgxMTIuNjUyTDExOC42ODYgMS42MDU1MkgxMjkuOTc4TDEzMC4zMzMgNC44MDE3NkMxMzIuOTYgMi44ODYyOCAxMzYuNTA4IDAuOTY2MDU3IDE0MS4yNjUgMC45NjYwNTdDMTQ1LjM4NCAwLjk2NDU5OSAxNDguMDggMi43NDA0NSAxNDkuNDMyIDUuMTU1NzdaIiBmaWxsPSIjMDA4Q0ZGIi8+CiAgPHBhdGggZD0iTTE5Ni44NjkgMTYuMzA3NkMxOTYuODY5IDEzLjE4MjEgMTk2LjA4NyAxMS4wNTEyIDE5My43NDYgMTEuMDUxMkMxODguNTYzIDExLjA1MTIgMTg3LjQ5OCAyMC4yMTMzIDE4Ny40OTggMjQuOTAwM0MxODcuNDk4IDI4LjQ1NiAxODguNDkzIDMwLjY1NjYgMTkwLjgzNCAzMC42NTY2QzE5NS43MzMgMzAuNjU2NiAxOTYuODY5IDIwLjk5NDIgMTk2Ljg2OSAxNi4zMDc2Wk0xNzQuMTUgMjQuMzM0NUMxNzQuMTUgMTIuMjYwOCAxODAuNTM5IDAuOTYzMzc5IDE5NS4yMzggMC45NjMzNzlDMjA2LjMxNCAwLjk2MzM3OSAyMTAuMzYzIDcuNDk5ODUgMjEwLjM2MyAxNi41MjJDMjEwLjM2MyAyOC40NTU2IDIwNC4wNDMgNDAuODE0IDE4OC45ODkgNDAuODE0QzE3Ny44NDIgNDAuODE0IDE3NC4xNSAzMy40OTcgMTc0LjE1IDI0LjMzNDVaIiBmaWxsPSIjMDA4Q0ZGIi8+Cjwvc3ZnPg==" alt="venmo" />
-          <h2> @preventable</h2>
+          <h2> @preventable </h2>
         </div>
       )}
     </div>
@@ -33,10 +33,13 @@ function App() {
   return (
     <div className="App">
       <DelayedPopup />
+
       <header className="App-header">
-         <title>
-          Avoid & manage Covid
-        </title>
+         <title>  Fight Covid  </title>
+
+    <meta property="og:site_name" content="example title" />
+
+    <meta property="og:title" content="example title" />
 
       <h1> Fighting Covid 
       <br /> 
@@ -57,13 +60,13 @@ function App() {
       <br /> 
       <br /> 
       <p> 
-     <h2> Preventing Covid: </h2>
-  Half the Covid cases are asymptomatic.
-  This guide could save you hundreds of dollars in medical bills. <br /> 
+     <h2> Prevent Covid: </h2>
+  Half of Covid cases are asymptomatic.
+  This guide could save you hundreds of dollars in medical bills, and heartache. <br /> 
   If you follow this protocol, you may never get infected again. </p> 
-  <p> Reminder: higher risk severe effects is EVERYONE, and especially the person who have <a href="https://nosscr.org/disability-recipients-nearly-7-times-more-likely-to-die-of-covid-19-according-to-ssa-data/"> disabilities</a>, <a href='https://pmc.ncbi.nlm.nih.gov/articles/PMC8586903/'> are Black and/or Brown</a>, <a href="https://www.them.us/story/long-covid-trans-and-bisexual-people-healthcare-disparities" > as well those who are trans and queer</a>. <br /> You literally cannot tell when someone's contagious or not. 
+  <p> Reminder: higher risk severe effects is EVERYONE, and especially the person  <a href="https://nosscr.org/disability-recipients-nearly-7-times-more-likely-to-die-of-covid-19-according-to-ssa-data/"> who have disabilities</a>, <a href='https://pmc.ncbi.nlm.nih.gov/articles/PMC8586903/'> are Black and/or Brown</a>, <a href="https://www.them.us/story/long-covid-trans-and-bisexual-people-healthcare-disparities" > as well those who are trans and queer</a>. <br /> You literally cannot tell when someone's contagious or not. 
 
-  It's constantly mutating and evading immunity. 
+  Finally, it's constantly mutating & evading immunity, thus you can be sick with multiple strains at once, or back-to-back. 
   </p>
 <div className='productz'>
 
@@ -90,26 +93,29 @@ function App() {
     
     <div className='section2'>
     <h2> Managing an active infection: </h2>
-  <p> Sick? The key is keep the viral load low, and to discourage replication in your body. Here's a suggested schedule to do just that.  </p>
-  
-  <p> Main priorities:   <br /> 
-  1. Rest 
-  <br /> 2. Medicate  <br /> 3. Outside    <br />
-  4. Clear nasal passages* 
-  <br />*If you don't have time to find a neti pot, try using a clean gravy boat or tea pot. 
-  <br />It will help protect your brain from viral damage, as illustrated here: 
-  <br />
-  <a href='https://www.quora.com/Does-nasal-cavity-lead-to-the-brain'> www.quora.com/Does-nasal-cavity-lead-to-the-brain </a>
+  <p> Sick? The key is keep the viral load low, and to discourage replication in your body.  </p>
+ 
+  <h5> Top priorities: </h5>
+  <p>
+  1. Rest - prioritize quality sleep, and psychological wellbeing  <br /> 
+  2. Medicate  <br />  
+  3. Outside: sun exposure and air flow  <br /> 
+  4. <a href='https://youtu.be/SXUyqna4QZA'> Clean nasal passages</a>* 
+  <br /> *If you don't have time to find a neti pot, try using a clean gravy boat or tea pot. <br /> The nasal passage cleaning <a href='https://www.quora.com/Does-nasal-cavity-lead-to-the-brain'> will help prevent brain damage.  </a>
   </p>
-
+  <br /> 
+<h5> Schedule: </h5>
+<h6> Print about 10 copies & mark as you complete them each day. </h6>
   <div className="centeredBox">
   <ol> ☀️ Morning: </ol>
   <li> ASK FOR HELP. This is what friends and family are for. Ask for help with meals and medications. It can be hard, but do it first to get it out of the ways. </li>
+  <li> Play calming music - playlist suggestion below </li>
   <li> Paxlovid or other antiviral </li>
-  <li> Moisten nostrils with shower or warm beverage, blow nose, and spray nostrils with nasal spray </li>
+  <li> Clean nasal passages with neti pot, OR moisten nostrils with shower or warm beverage, blow nose, and spray nostrils with nasal spray </li>
   <li> Outside sunlight as much as possible/ unmasked as much as possible to realease viral load. </li>
   <li> Drink and GARGLE tea to disrupt virus's replication in the back of the throat </li>
   <li> Metformin </li>
+  <li> With food, take the oregano oil </li>
   <li> Baby aspirin or turmeric to prevent blood clotting </li>
 
 
@@ -123,12 +129,16 @@ function App() {
   <ol> 🌙 Evening: </ol>
   <li> Paxlovid or other antiviral </li>
   <li> Outside sunlight as much as possible/ unmasked as much as possible to realease viral load. </li>
+  <li> Clean nasal passages with neti pot, OR moisten nostrils with shower or warm beverage, blow nose, and spray nostrils with nasal spray </li>
   <li> Gargle herbal tea </li>
-  <li> Melatonin </li>
   <li> Metformin </li>
+  <li> Probiotics -- to balance gut health after the antivirals and antibiotic of the oregano oil, and assist with sleep.  </li>
   <li> Any cannabis with THC is good to take before too late in the evening </li>
-  <li> What your favorite comedy or easy to digest show </li>
+  <li> What your favorite comedy or easy-to-digest show </li>
   <li> Take a night-friendly anti-histamine to help with <a href='https://pmc.ncbi.nlm.nih.gov/articles/PMC9903129/'> common histamine reactions</a> and help with deeper sleep </li>
+  <li> Melatonin </li>
+  <li> Set up HOCl humidifier to run overnight - this is the most powerful antiviral we have on the market </li>
+
   </div>
 </div>
 

@@ -6,9 +6,14 @@ h1{
   padding: 10% 0 5% 0;
 
 }
-.popup{
+/* .popup{
+  from {
+    transform: drop(0deg);
+  }
+  to {
+    transform: rotate(400deg);
+  } */
 
-}
 .App-logo {
   width: 130%;
   pointer-events: none;
@@ -89,6 +94,6 @@ button:hover {
     transform: rotate(0deg);
   }
   to {
-    transform: rotate(400deg);
+    transform: rotate(200deg);
   }
 }
