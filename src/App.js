@@ -35,7 +35,7 @@ function App() {
       <DelayedPopup />
 
       <header className="App-header">
-         <title>  Fight Covid  </title>
+         <title> Fight Covid </title>
 
     <meta property="og:site_name" content="example title" />
 
@@ -46,7 +46,7 @@ function App() {
       is easy & affordable </h1>
           <h4> 
       Prevent & recover from SARS/2      
-      <br /> using scientific studies, simple tools you have
+      <br /> using scientific studies, simple tools you have 
           </h4>
 
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Coronavirus._SARS-CoV-2.png/1920px-Coronavirus._SARS-CoV-2.png" className="App-logo" alt="SARS virus rotating" />
@@ -93,13 +93,13 @@ function App() {
     
     <div className='section2'>
     <h2> Managing an active infection: </h2>
-  <p> Sick? The key is keep the viral load low, and to discourage replication in your body.  </p>
+  <p> Sick? The key is low viral load, and discourage replication.  </p>
  
-  <h5> Top priorities: </h5>
+  <h5> Objectives: </h5>
   <p>
   1. Rest - prioritize quality sleep, and psychological wellbeing  <br /> 
   2. Medicate  <br />  
-  3. Outside: sun exposure and air flow  <br /> 
+  3. During the day: Outside sun exposure with air flow or ventilation. During night: moisture and/or HOCl! <br /> 
   4. <a href='https://youtu.be/SXUyqna4QZA'> Clean nasal passages</a>* 
   <br /> *If you don't have time to find a neti pot, try using a clean gravy boat or tea pot. <br /> The nasal passage cleaning <a href='https://www.quora.com/Does-nasal-cavity-lead-to-the-brain'> will help prevent brain damage.  </a>
   </p>
@@ -120,10 +120,9 @@ function App() {
 
 
   <ol> 🌤️ Midday: </ol>
-  <li> Get outside in sunlight as much as possible, while unmasked as much as possible to kill and release viral load </li>
-  <li> Outside sunlight as much as possible/ unmasked as much as possible to realease viral load. </li>
-  <li> Probiotics </li>
+  <li> Outside sunlight as much as possible/ unmasked as much as possible to realease viral load. You may see a developing theme here. </li>
   <li> Gargle and consume herbal tea to disrupt virus's replication </li>
+  <li> Probiotics or enzyme before midday meal/ food to make digestion easier. </li>
 
 
   <ol> 🌙 Evening: </ol>
@@ -137,7 +136,7 @@ function App() {
   <li> What your favorite comedy or easy-to-digest show </li>
   <li> Take a night-friendly anti-histamine to help with <a href='https://pmc.ncbi.nlm.nih.gov/articles/PMC9903129/'> common histamine reactions</a> and help with deeper sleep </li>
   <li> Melatonin </li>
-  <li> Set up HOCl humidifier to run overnight - this is the most powerful antiviral we have on the market </li>
+  <li> Set up HOCl in the humidifier to run overnight - <a href='https://pmc.ncbi.nlm.nih.gov/articles/PMC10227542/'> far more powerful, yet safer, than bleach </a> </li>
 
   </div>
 </div>
@@ -202,7 +201,7 @@ Calm music for relaxation:
       <br />
       LongCovidPharmD's Substack <a href="https://pharmd.substack.com/p/i-have-covid-what-should-my-kids"> pharmd.substack.com/p/i-have-covid-what-should-my-kids </a> 
       <br />
-      People's CDC <a href="https://peoplescdc.org/2023/01/10/what-to-do-if-you-have-covid/"> peoplescdc.org/2023/01/10/what-to-do-if-you-have-covid/ </a> 
+      People's CDC <a href="https://peoplescdc.org/what-to-do-if-you-have-covid/"> peoplescdc.org/what-to-do-if-you-have-covid </a> 
       <br /> 
       Expert advice on how to avoid infection while caring for others <a href='https://substack.com/home/post/p-169629289'> substack.com/home/post/p-169629289 </a>
 
