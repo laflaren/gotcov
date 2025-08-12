@@ -5,8 +5,8 @@
  "imgsrc" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWc8kEvwsoh72z3mYQqxf4WM6Tjp7D0Zkp3A&s",
  "buttonprice" : " ",
  "buttonlink" : "https://www.shopmaskc.com",
- "description" : "Multi-colored n95 masks",
- "alttext" : "n95 masks protect again 95% of air particles"
+ "description" : "n95 masks",
+ "alttext" : "n95 masks protect against about 95% of air particles"
  },
  {
   "className" : "ClearAir",
@@ -58,7 +58,7 @@
   "imglink" : "https://whn.global/guidelines/taking-care-of-an-ill-person/",
   "imgsrc" : "https://themarkconsulting.com/wp-content/uploads/2015/07/fish.jpg",
   "buttonprice" : " ",
-  "buttonlink" : "https://www.google.cm/search?q=hotels+near+me",
+  "buttonlink" : "https://duckduckgo.com/?q=hotels+near+me&t=ffab&ia=web",
   "description" : "Isolate",
   "alttext" : "Fish jumping out of one bowl to another"
   },
@@ -76,7 +76,7 @@
   "imglink" : "https://thumbs.dreamstime.com/b/sick-office-employee-sneezing-man-wrapped-warm-blanket-phone-call-suffering-cold-fever-flu-sick-office-employee-sneezing-357485012.jpg",
   "imgsrc" : "https://thumbs.dreamstime.com/b/sick-office-employee-sneezing-man-wrapped-warm-blanket-phone-call-suffering-cold-fever-flu-sick-office-employee-sneezing-357485012.jpg",
   "buttonprice" : " ",
-  "buttonlink" : "https://www.google.cm/search?q=hotels+near+me",
+  "buttonlink" : "https://duckduckgo.com/?t=ffab&q=what+are+friends+for+&ia=web",
   "description" : "Seek Assistance",
   "alttext" : "Coughing on the phone"
   }, 
@@ -117,7 +117,7 @@
   "imglink" : "https://academic.oup.com/jambio/article/134/1/lxac036/6902073",
   "imgsrc" : "https://cdn.britannica.com/38/205238-050-8BD2530A/Close-up-marijuana-plant.jpg",
   "buttonprice" : " ",
-  "buttonlink" : "https://www.google.com/search?q=closest+dispensary+to+me",
+  "buttonlink" : "https://duckduckgo.com/?q=dispensary+to+me&t=ffab&ia=web",
   "description" : "Cannabis",
   "alttext" : "Cannabis"
   },
@@ -126,7 +126,7 @@
   "imgsrc" : "https://www.thespruceeats.com/thmb/Pq1dH05CSZbep0zMc9Zs3luEsGw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/Herbal-tea-bag-582e1a743df78c6f6a29ef11.jpg",
   "buttonprice" : " ",
   "buttonlink" : "https://newswire.caes.uga.edu/story/10391/covid-tea.html",
-  "description" : "Green or Black Tea",
+  "description" : "Green, black, or herbal tea",
   "alttext" : "tea bag"
 },
 {"className" : "garlic",
@@ -157,10 +157,19 @@
 },
 {
  "className" : "Humidifier",
-  "imglink" : "https://feekaa.com/products/feekaa-stainless-steel-humidifier-easy-clean-4l-1gal-cool-mist-humidifiers-for-bedroom-up-to-500-sq-ft-dishwasher-safe-humidifier-large-room-humidifiers-for-bedroom-baby-nursery-living-room-office",
+  "imglink" : "https://www.facebook.com/marketplace/108374975857409/search/?query=humidifier",
   "imgsrc" : "https://img-va.myshopline.com/image/store/1648548293792/0114-1-(1)_1512x.jpeg?w=1500&h=1500",
   "buttonprice" : "",
   "buttonlink" : "https://duckduckgo.com/?t=ffab&q=thrift+store+near+me+&ia=web",
+  "description" : "Humifidier",
+  "alttext" : "humidifier"
+},
+{
+  "className" : "HOCl",
+  "imglink" : "https://www.sterloc.com/blog/what-is-hocl/",
+  "imgsrc" : "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fhoclsolutions.com%2Fwp-content%2Fuploads%2F2021%2F03%2Fhocl-disinfectant-gallon-1036x2048.jpg&f=1&nofb=1&ipt=c223ef7d44600530ef432d1c20e38f045ccb26c3b3077d3fb769c278816a75dd",
+  "buttonprice" : "$40",
+  "buttonlink" : "https://hoclsolutions.com/products/hocl-gallon/",
   "description" : "Humifidier",
   "alttext" : "humidifier"
 }
