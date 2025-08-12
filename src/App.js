@@ -169,11 +169,7 @@ Calm music for relaxation:
     Let's being the healing: </p>
         First, keep taking foods that can thin the blood and reduce chances of blood clots daily: turmeric, garlic, cayenne pepper, ginger, cinnamon, primrose oil, aloe, etc. for about 2-3 months. 
         <br />
-        <a href='https://www.medicalnewstoday.com/articles/322384'> www.medicalnewstoday.com/articles/322384 </a>
-        <br />
-        and avoid blood-clotting foods 
-        <br /> 
-        <a href='https://www.livestrong.com/article/323888-list-of-blood-thinning-foods/'> www.livestrong.com/article/323888-list-of-blood-thinning-foods/ </a>
+       
     <div className="healCov"> 
       {products.healcovid.map(healcovid =>
         <div className='buddysys'> 
@@ -187,7 +183,8 @@ Calm music for relaxation:
     </div>
     If you're still having linger symptoms after 2-3 months, there are many resources to help you find ways to manage or heal from those symptoms: 
     <a href='https://www.facebook.com/search/groups/?q=long%20covid%20'> a quick search on facebook shows you many communities. </a>
-    Quick note: Even if you are no longer detecting a positive test result, avoid swapping sexual bodily fluids due to many studies showing the pesistane of the viral load in the 
+    <br /> <br />
+    Note: Use condoms for 8 months after onset of the virus, to avoid exchanging viral loads, even after testing negative on oral and nasal tests. Link in "STI Protections" has more info. 
     </div>
     </div>
 
