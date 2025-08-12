@@ -130,7 +130,7 @@
   "alttext" : "tea bag"
 },
 {"className" : "garlic",
-"imglink" : "https://hometownproducecompany.com/cdn/shop/products/garlic1.jpg?v=1586307686",
+"imglink" : "https://worldofdentistry.org/garlic-for-oral-health",
 "imgsrc" : "https://i5.walmartimages.com/seo/Garlic-Bulb-Fresh-Whole-Each_a4f114d9-93ab-4d39-a8d6-9170536f57a9.f9f8e58c8e3e74894050c7c2267437e3.jpeg",
 "buttonprice" : "",
 "buttonlink" : "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8581659/",
@@ -165,8 +165,6 @@
   "alttext" : "humidifier"
 }
 ],
-
-
   "healcovid" : 
   [{
   "className" : "OreganOil4Viruses",
@@ -176,6 +174,15 @@
   "buttonlink" : "https://www.healthline.com/health/oregano-oil-for-cold",
   "description" : "Oregano Oil",
   "alttext" : "Oregano Oil"
+ },
+ {
+  "className" : "BloodThinners",
+  "imglink" : "https://www.livestrong.com/article/323888-list-of-blood-thinning-foods",
+  "imgsrc" : "https://i.pinimg.com/736x/6a/11/5e/6a115ec214f2f195db0b4d35744ddb2b.jpg",
+  "buttonprice" : "",
+  "buttonlink" : "https://www.livestrong.com/article/323888-list-of-blood-thinning-foods",
+  "description" : "Blood thinning foods",
+  "alttext" : "Blood thinning foods"
  },
  {"className" : "Multivitamin",
   "imglink" : "https://www.costco.com/kirkland-signature-daily-multi%2c-500-tablets.product.11491625.html",
@@ -193,12 +200,20 @@
   "description" : "Novavax Vaccine",
   "alttext" : "Novavax Covid Vaccine"
   },
-  {"className" : "AntiInflammaation",
+  {"className" : "AntiInflammation",
   "imglink" : "https://www.mayoclinichealthsystem.org/hometown-health/speaking-of-health/want-to-ease-chronic-inflammation",
   "imgsrc" : "https://images.immediate.co.uk/production/volatile/sites/30/2022/04/Top-10-anti-inflammatory-foods-ff69255.jpg",
   "buttonprice" : "",
   "buttonlink" : "https://www.mayoclinichealthsystem.org/hometown-health/speaking-of-health/want-to-ease-chronic-inflammation",
   "description" : "Anti-Inflammation diet",
   "alttext" : "Anti-Inflammation diet"
+  },
+  {"className" : "Condoms",
+  "imglink" : "https://www.auajournals.org/doi/10.1097/01.JU.0001109764.27496.08.09",
+  "imgsrc" : "https://www.nulatex.com/wp-content/uploads/2024/04/10.-Dental-Dams-vs.-Condoms-e1712544472225-2048x1024.png",
+  "buttonprice" : "",
+  "buttonlink" : "https://www.auajournals.org/doi/10.1097/01.JU.0001109764.27496.08.09",
+  "description" : "STI Protections",
+  "alttext" : "Dental dams and penile condoms"
   }
 ]}

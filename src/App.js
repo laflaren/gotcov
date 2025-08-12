@@ -74,14 +74,15 @@ function App() {
     <div className="preventCov"> 
       {products.preventcov.map((preventcov) => ( //map has to be on ARRAY, not object 
    <div className='buddysys'> 
-      <img src={preventcov.imgsrc} 
-      alt={preventcov.alttext} /> 
+      <a href={preventcov.imglink}> <img src={preventcov.imgsrc} 
+      alt={preventcov.alttext} /> </a> 
       <br /> 
 
       <button className variant="danger"> 
-      {preventcov.buttonprice}
+       {preventcov.buttonprice}
       <br />
-      {preventcov.description}
+      <a href= {preventcov.buttonlink}>
+      {preventcov.description} </a>
       </button>
  
       </div> 
@@ -97,15 +98,16 @@ function App() {
  
   <h5> Objectives: </h5>
   <p>
-  1. Rest - prioritize quality sleep, and psychological wellbeing  <br /> 
-  2. Medicate  <br />  
-  3. During the day: Outside sun exposure with air flow or ventilation. During night: moisture and/or HOCl! <br /> 
-  4. <a href='https://youtu.be/SXUyqna4QZA'> Clean nasal passages</a>* 
+  1. Physically isolate. Even if you and others have the 'same virus,' you can swap the viral load and regress progress your body has made. Even if you share space, ensure you use barriers like air purifiers and ventilation. 
+  2. Rest - prioritize quality sleep, and psychological wellbeing  <br /> 
+  3. Medicate  <br />  
+  4. During the day: Outside sun exposure with air flow or ventilation. During night: moisture and/or HOCl! <br /> 
+  5. <a href='https://youtu.be/SXUyqna4QZA'> Clean nasal passages</a>* 
   <br /> *If you don't have time to find a neti pot, try using a clean gravy boat or tea pot. <br /> The nasal passage cleaning <a href='https://www.quora.com/Does-nasal-cavity-lead-to-the-brain'> will help prevent brain damage.  </a>
   </p>
   <br /> 
 <h5> Schedule: </h5>
-<h6> Print about 10 copies & mark as you complete them each day. </h6>
+<h6> Print ~10 copies & mark as you complete them daily. </h6>
   <div className="centeredBox">
   <ol> ☀️ Morning: </ol>
   <li> ASK FOR HELP. This is what friends and family are for. Ask for help with meals and medications. It can be hard, but do it first to get it out of the ways. </li>
@@ -148,11 +150,13 @@ Calm music for relaxation:
   <div className='section3'>
   <div className="duringCov"> 
         {products.duringcovid.map(duringcovid =>
-          <div className='buddysys'> <img src={duringcovid.imgsrc} alt={duringcovid.alttext} />
+          <div className='buddysys'> 
+          
+          <a href= {duringcovid.imglink}> <img src={duringcovid.imgsrc} alt={duringcovid.alttext} /> </a>
           <br />
-          <button variant="danger">{duringcovid.buttonprice} <br />
+          <a href={duringcovid.buttonlink}><button variant="danger">{duringcovid.buttonprice} <br />
           {duringcovid.description}
-          </button>
+          </button></a>
         
           </div> 
           //https://colours.neilorangepeel.com/category/blue/
@@ -160,10 +164,10 @@ Calm music for relaxation:
         )}
       </div>
         <h2> Post-Viral Care </h2>
-    <p>  Congratulations! So you made out of the acute phase of the virus, usually the worst part. 
+    <p>  Congratulations! So you made out of the acute phase of the virus, sometimes the worst part. 
     <br />
-    Let's start healing: </p>
-        First, keep taking foods that can reduce blood clots daily: turmeric, garlic, cayenne pepper, ginger, cinnamon, primrose oil, aloe, etc.
+    Let's being the healing: </p>
+        First, keep taking foods that can thin the blood and reduce chances of blood clots daily: turmeric, garlic, cayenne pepper, ginger, cinnamon, primrose oil, aloe, etc. for about 2-3 months. 
         <br />
         <a href='https://www.medicalnewstoday.com/articles/322384'> www.medicalnewstoday.com/articles/322384 </a>
         <br />
@@ -172,16 +176,18 @@ Calm music for relaxation:
         <a href='https://www.livestrong.com/article/323888-list-of-blood-thinning-foods/'> www.livestrong.com/article/323888-list-of-blood-thinning-foods/ </a>
     <div className="healCov"> 
       {products.healcovid.map(healcovid =>
-        <div className='buddysys'> <img src={healcovid.imgsrc} alt={healcovid.alttext} />
+        <div className='buddysys'> 
+        <a href={healcovid.imglink}> <img src={healcovid.imgsrc} alt={healcovid.alttext} /> </a>
         <br />
-        <button variant="danger">{healcovid.buttonprice} <br></br>
+        <a href={healcovid.buttonlink}> <button variant="danger">{healcovid.buttonprice} <br></br>
         {healcovid.description}
-        </button>
+        </button> </a> 
         </div>
       )}
     </div>
     If you're still having linger symptoms after 2-3 months, there are many resources to help you find ways to manage or heal from those symptoms: 
     <a href='https://www.facebook.com/search/groups/?q=long%20covid%20'> a quick search on facebook shows you many communities. </a>
+    Quick note: Even if you are no longer detecting a positive test result, avoid swapping sexual bodily fluids due to many studies showing the pesistane of the viral load in the 
     </div>
     </div>
 
@@ -191,7 +197,7 @@ Calm music for relaxation:
       <h5> 
       <br />
       Thank you for your support! 
-      <br/> Contact & feedback: <br /> Venmo $20 to @preventable to keep <link rel="icon" href="favicon.ico" /> this work going. 
+      <br/> Contact & feedback: <br /> Venmo $5 to @preventable to keep <link rel="icon" href="favicon.ico" /> this work going. 
       </h5>
       <br />   <br />   <br /> 
 
@@ -199,13 +205,14 @@ Calm music for relaxation:
     
       Sources: 
       <br />
-      LongCovidPharmD's Substack <a href="https://pharmd.substack.com/p/i-have-covid-what-should-my-kids"> pharmd.substack.com/p/i-have-covid-what-should-my-kids </a> 
-      <br />
-      People's CDC <a href="https://peoplescdc.org/what-to-do-if-you-have-covid/"> peoplescdc.org/what-to-do-if-you-have-covid </a> 
-      <br /> 
-      Expert advice on how to avoid infection while caring for others <a href='https://substack.com/home/post/p-169629289'> substack.com/home/post/p-169629289 </a>
-
+     1. LongCovidPharmD's Substack <a href="https://pharmd.substack.com/p/i-have-covid-what-should-my-kids"> pharmd.substack.com/p/i-have-covid-what-should-my-kids </a> 
+     <br />
+     2. People's CDC <a href="https://peoplescdc.org/what-to-do-if-you-have-covid/"> peoplescdc.org/what-to-do-if-you-have-covid </a>
+     <br />
+      3. Expert advice on how to avoid infection while caring for others <a href='https://substack.com/home/post/p-169629289'> substack.com/home/post/p-169629289 </a>
+    
       </p> 
+   
     </footer>
   </div>
 
