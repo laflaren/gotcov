@@ -184,7 +184,7 @@ Calm music for relaxation:
     If you're still having linger symptoms after 2-3 months, there are many resources to help you find ways to manage or heal from those symptoms: 
     <a href='https://www.facebook.com/search/groups/?q=long%20covid%20'> a quick search on facebook shows you many communities. </a>
     <br /> <br />
-    Note: Use condoms for 8 months after onset of the virus, to avoid exchanging viral loads, even after testing negative on oral and nasal tests. Link in "STI Protections" has more info. 
+    Note: Use condoms for 8 months after onset of the virus, to avoid exchanging viral loads, even after testing negative on oral & nasal tests. Link in "STI Protections" has more info. 
     </div>
     </div>
 
@@ -209,7 +209,6 @@ Calm music for relaxation:
       3. Expert advice on how to avoid infection while caring for others <a href='https://substack.com/home/post/p-169629289'> substack.com/home/post/p-169629289 </a>
     
       </p> 
-   
     </footer>
   </div>
 
