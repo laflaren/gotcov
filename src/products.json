@@ -134,7 +134,7 @@
 "imgsrc" : "https://i5.walmartimages.com/seo/Garlic-Bulb-Fresh-Whole-Each_a4f114d9-93ab-4d39-a8d6-9170536f57a9.f9f8e58c8e3e74894050c7c2267437e3.jpeg",
 "buttonprice" : "",
 "buttonlink" : "https://www.ncbi.nlm.nih.gov/pmc/articles/PMC8581659/",
-"description" : "Raw, cooked garlic",
+"description" : "Raw garlic",
 "alttext" : "garlic bulb"
 }, 
 {  
@@ -172,7 +172,15 @@
   "buttonlink" : "https://hoclsolutions.com/products/hocl-gallon/",
   "description" : "HOCl: Gentle & powerful disinfectant ",
   "alttext" : "humidifier"
-}
+}, 
+{"className" : "Garlge",
+  "imglink" : "https://www.tandfonline.com/doi/full/10.1080/26895293.2021.1893834",
+  "imgsrc" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvHKQMxc6_nY8Q2gWpDyxGxNz-a44hftg1peSi5lZWiPYVYJ9KDHhWsNGj55QHoTXqSZc&usqp=CAU",
+  "buttonprice" : "Gargle salt water",
+  "buttonlink" : "https://soumyahospitals.com/what-is-the-right-way-to-gargle/",
+  "description" : "for 30 seconds",
+  "alttext" : "Woman holding a glass with salt water"
+  }
 ],
   "healcovid" : 
   [{
@@ -184,6 +192,14 @@
   "description" : "Oregano Oil",
   "alttext" : "Oregano Oil"
  },
+  {"className" : "Garlge",
+  "imglink" : "https://www.tandfonline.com/doi/full/10.1080/26895293.2021.1893834",
+  "imgsrc" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvHKQMxc6_nY8Q2gWpDyxGxNz-a44hftg1peSi5lZWiPYVYJ9KDHhWsNGj55QHoTXqSZc&usqp=CAU",
+  "buttonprice" : "Gargle salt water",
+  "buttonlink" : "https://soumyahospitals.com/what-is-the-right-way-to-gargle/",
+  "description" : "for 30 seconds",
+  "alttext" : "Woman holding a glass with salt water"
+  },
  {
   "className" : "BloodThinners",
   "imglink" : "https://www.medicalnewstoday.com/articles/322384",
@@ -200,6 +216,14 @@
   "buttonlink" : "https://www.costco.com/kirkland-signature-daily-multi%2c-500-tablets.product.11491625.html",
   "description" : "Multivitamin",
   "alttext" : "Multivitamin"
+  },
+  {"className" : "Probiotics",
+  "imglink" : "https://seed.com/daily-synbiotic",
+  "imgsrc" : "https://res.cloudinary.com/dljz0lko8/image/upload/f_auto,q_auto/v1610475235/daily-synbiotic/Seed_PDP_01_Hero_1_NEW.jpg",
+  "buttonprice" : "$50",
+  "buttonlink" : "https://seed.com/daily-synbiotic",
+  "description" : "Probiotics",
+  "alttext" : "probiotics"
   },
   {"className" : "Novavax",
   "imglink" : "https://www.facebook.com/groups/457417809290508 ",
@@ -226,3 +250,4 @@
   "alttext" : "Dental dams and penile condoms"
   }
 ]}
+

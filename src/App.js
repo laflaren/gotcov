@@ -144,8 +144,15 @@ function App() {
 </div>
 
 Calm music for relaxation: 
+
+
   <iframe style={{"borderRadius":"12px"}} src="https://open.spotify.com/embed/playlist/37i9dQZF1DX1T2fEo0ROQ2?utm_source=generator&theme=0" width="90%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy">
   </iframe>
+
+
+
+
+
 
   <div className='section3'>
   <div className="duringCov"> 
@@ -184,7 +191,7 @@ Calm music for relaxation:
     If you're still having linger symptoms after 2-3 months, there are many resources to help you find ways to manage or heal from those symptoms: 
     <a href='https://www.facebook.com/search/groups/?q=long%20covid%20'> a quick search on facebook shows you many communities. </a>
     <br /> <br />
-    Note: Use condoms for 8 months after onset of the virus, to avoid exchanging viral loads, even after testing negative on oral & nasal tests. Link in "STI Protections" has more info. 
+    Note: Use condoms for 8 months after onset of the virus, to avoid exchanging viral loads, even after testing negative on oral & nasal tests. 
     </div>
     </div>
 
@@ -207,6 +214,8 @@ Calm music for relaxation:
      2. People's CDC <a href="https://peoplescdc.org/what-to-do-if-you-have-covid/"> peoplescdc.org/what-to-do-if-you-have-covid </a>
      <br />
       3. Expert advice on how to avoid infection while caring for others <a href='https://substack.com/home/post/p-169629289'> substack.com/home/post/p-169629289 </a>
+
+      4. Collection of studies <a href='https://c19early.org/'> c19early.org </a>
     
       </p> 
     </footer>
