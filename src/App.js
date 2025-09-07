@@ -56,15 +56,18 @@ function App() {
      
 
 
-      This is an low-risk, tried ways to avoid the health issues that result from Covid. 
+      This is an low-risk, tried ways to avoid the health issues that may result from Covid infections. 
       <br /> 
       <br /> 
       <p> 
      <h2> Prevent Covid: </h2>
-  Half of Covid cases are asymptomatic.
   This guide could save you hundreds of dollars in medical bills, and heartache. <br /> 
   If you follow this protocol, you may never get infected again. </p> 
-  <p> Reminder: higher risk severe effects is EVERYONE, and especially the person  <a href="https://nosscr.org/disability-recipients-nearly-7-times-more-likely-to-die-of-covid-19-according-to-ssa-data/"> who have disabilities</a>, <a href='https://pmc.ncbi.nlm.nih.gov/articles/PMC8586903/'> are Black and/or Brown</a>, <a href="https://www.them.us/story/long-covid-trans-and-bisexual-people-healthcare-disparities" > as well those who are trans and queer</a>. <br /> You literally cannot tell when someone's contagious or not. 
+    <br /> 
+  <p> Reminder: "higher risk" can technically be is EVERYONE, and especially the person  <a href="https://nosscr.org/disability-recipients-nearly-7-times-more-likely-to-die-of-covid-19-according-to-ssa-data/"> who have disabilities</a>, <a href='https://pmc.ncbi.nlm.nih.gov/articles/PMC8586903/'> are Brown and/or Black</a>, <a href="https://www.them.us/story/long-covid-trans-and-bisexual-people-healthcare-disparities" > as well those who are trans and queer</a>. 
+  <br />
+  Half of Covid cases are asymptomatic.
+  <br /> You literally cannot tell when someone's contagious or not. 
 
   Finally, it's constantly mutating & evading immunity, thus you can be sick with multiple strains at once, or back-to-back. 
   </p>
@@ -98,23 +101,32 @@ function App() {
  
   <h5> Objectives: </h5>
   <p>
-  1. Physically isolate. Even if you and others have the 'same virus,' you can swap the viral load and regress progress your body has made. Even if you share space, ensure you use barriers like air purifiers and ventilation. 
-  2. Rest - prioritize quality sleep, and psychological wellbeing  <br /> 
-  3. Medicate  <br />  
-  4. During the day: Outside sun exposure with air flow or ventilation. During night: moisture and/or HOCl! <br /> 
+  1. Physically isolate. Even if you and others have the 'same virus,' you can swap the viral load and regress progress your body makes. Even if you share a space, ensure you use barriers like air purifiers and ventilation for the airborne SARS viruses. 
+  <br /> 
+  2. Rest - prioritize quality sleep, and psychological wellbeing 
+   <br /> 
+  3. Medicate  
+  <br />  
+  4. During the day: Outside sun exposure with air flow or ventilation. 
+  <br /> 
+  During night: moisture and/or HOCl! 
+  <br /> 
   5. <a href='https://youtu.be/SXUyqna4QZA'> Clean nasal passages</a>* 
   <br /> *If you don't have time to find a neti pot, try using a clean gravy boat or tea pot. <br /> The nasal passage cleaning <a href='https://www.quora.com/Does-nasal-cavity-lead-to-the-brain'> will help prevent brain damage.  </a>
   </p>
-  <br /> 
-<h5> Schedule: </h5>
-<h6> Print ~10 copies & mark as you complete them daily. </h6>
+
+  <br />
+
+  <h5> Schedule: </h5>
+  <h6> Print ~10 copies & mark as you complete them daily. </h6>
   <div className="centeredBox">
   <ol> ☀️ Morning: </ol>
+  <li>  Open windows and make sure the air purifiers are running: ventilation is key to push out or trap the airborne SARS viruses, while bringing in fresh, cleaner air. </li>
   <li> ASK FOR HELP. This is what friends and family are for. Ask for help with meals and medications. It can be hard, but do it first to get it out of the ways. </li>
   <li> Play calming music - playlist suggestion below </li>
   <li> Paxlovid or other antiviral </li>
   <li> Clean nasal passages with neti pot, OR moisten nostrils with shower or warm beverage, blow nose, and spray nostrils with nasal spray </li>
-  <li> Outside sunlight as much as possible/ unmasked as much as possible to realease viral load. </li>
+  <li> Outside sunlight as much as possible/ unmasked as much as possible to release viral load. </li>
   <li> Drink and GARGLE tea to disrupt virus's replication in the back of the throat </li>
   <li> Metformin </li>
   <li> With food, take the oregano oil </li>
@@ -138,7 +150,7 @@ function App() {
   <li> What your favorite comedy or easy-to-digest show </li>
   <li> Take a night-friendly anti-histamine to help with <a href='https://pmc.ncbi.nlm.nih.gov/articles/PMC9903129/'> common histamine reactions</a> and help with deeper sleep </li>
   <li> Melatonin </li>
-  <li> Set up HOCl in the humidifier to run overnight - <a href='https://pmc.ncbi.nlm.nih.gov/articles/PMC10227542/'> far more powerful, yet safer, than bleach </a> </li>
+  <li> Set up HOCl in the humidifier to run overnight - <a href='https://pmc.ncbi.nlm.nih.gov/articles/PMC10227542/'> more powerful and safer than bleach </a> </li>
 
   </div>
 </div>
