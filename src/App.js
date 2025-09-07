@@ -173,7 +173,7 @@ Calm music for relaxation:
         <h2> Post-Viral Care </h2>
     <p>  Congratulations! So you made out of the acute phase of the virus, sometimes the worst part. 
     <br />
-    Let's being the healing: </p>
+    Let's begin the healing: </p>
         First, keep taking foods that can thin the blood and reduce chances of blood clots daily: turmeric, garlic, cayenne pepper, ginger, cinnamon, primrose oil, aloe, etc. for about 2-3 months. 
         <br />
        

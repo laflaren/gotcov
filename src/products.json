@@ -62,6 +62,15 @@
   "description" : "Isolate",
   "alttext" : "Fish jumping out of one bowl to another"
   },
+  {
+  "className" : "OpenWindows",
+  "imglink" : "https://www.designingbuildings.co.uk/wiki/Cross_ventilation",
+  "imgsrc" : "https://static.independent.co.uk/2022/07/18/14/iStock-1305955396%20%281%29.jpg?width=1200",
+  "buttonprice" : "",
+  "buttonlink" : "https://www.designingbuildings.co.uk/wiki/Cross_ventilation",
+  "description" : "Open windows to ventilate",
+  "alttext" : "Window is open"
+  },
 {
   "className" : "Neti-pot",
   "imglink" : "https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313&_nkw=neti+pot&_sacat=0&_odkw=neti+pots&_osacat=0&_nls=2&_dmd=2",
