@@ -56,7 +56,7 @@ function App() {
      
 
 
-      This is an low-risk, tried ways to avoid the health issues that may result from Covid infections. 
+      These are low-risk, affordable, tested ways to avoid the health issues that may result from Covid infections. 
       <br /> 
       <br /> 
       <p> 
@@ -64,11 +64,12 @@ function App() {
   This guide could save you hundreds of dollars in medical bills, and heartache. <br /> 
   If you follow this protocol, you may never get infected again. </p> 
     <br /> 
-  <p> Reminder: "higher risk" can technically be is EVERYONE, and especially the person  <a href="https://nosscr.org/disability-recipients-nearly-7-times-more-likely-to-die-of-covid-19-according-to-ssa-data/"> who have disabilities</a>, <a href='https://pmc.ncbi.nlm.nih.gov/articles/PMC8586903/'> are Brown and/or Black</a>, <a href="https://www.them.us/story/long-covid-trans-and-bisexual-people-healthcare-disparities" > as well those who are trans and queer</a>. 
+  <p> Reminder: "higher risk" can technically be EVERYONE, and especially person  <a href="https://nosscr.org/disability-recipients-nearly-7-times-more-likely-to-die-of-covid-19-according-to-ssa-data/"> who have disabilities</a>, <a href='https://pmc.ncbi.nlm.nih.gov/articles/PMC8586903/'> are Brown and/or Black</a>, <a href="https://www.them.us/story/long-covid-trans-and-bisexual-people-healthcare-disparities" > as well those who are trans and queer</a>. 
   <br />
-  Half of Covid cases are asymptomatic.
-  <br /> You literally cannot tell when someone's contagious or not. 
-
+ Almost <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9935239/"> half of Covid infections are asymptomatic. </a> 
+ <br /> 
+ You literally cannot tell when someone's contagious or not. 
+<br />
   Finally, it's constantly mutating & evading immunity, thus you can be sick with multiple strains at once, or back-to-back. 
   </p>
 <div className='productz'>
@@ -97,7 +98,7 @@ function App() {
     
     <div className='section2'>
     <h2> Managing an active infection: </h2>
-  <p> Sick? The key is low viral load, and discourage replication.  </p>
+  <p> The key is to lower the viral load and discourage replication.  </p>
  
   <h5> Objectives: </h5>
   <p>
@@ -105,17 +106,24 @@ function App() {
   <br /> 
   2. Rest - prioritize quality sleep, and psychological wellbeing 
    <br /> 
-  3. Medicate  
-  <br />  
+  3. Medicate 
+  <br /> 
   4. During the day: Outside sun exposure with air flow or ventilation. 
   <br /> 
-  During night: moisture and/or HOCl! 
+  During the night: moisturize passage way (with HOCl) 
   <br /> 
   5. <a href='https://youtu.be/SXUyqna4QZA'> Clean nasal passages</a>* 
   <br /> *If you don't have time to find a neti pot, try using a clean gravy boat or tea pot. <br /> The nasal passage cleaning <a href='https://www.quora.com/Does-nasal-cavity-lead-to-the-brain'> will help prevent brain damage.  </a>
   </p>
 
   <br />
+  Calm music for relaxation: 
+
+
+  <iframe style={{"borderRadius":"12px"}} src="https://open.spotify.com/embed/playlist/37i9dQZF1DX1T2fEo0ROQ2?utm_source=generator&theme=0" width="90%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy">
+  </iframe>
+
+
 
   <h5> Schedule: </h5>
   <h6> Print ~10 copies & mark as you complete them daily. </h6>
@@ -155,17 +163,6 @@ function App() {
   </div>
 </div>
 
-Calm music for relaxation: 
-
-
-  <iframe style={{"borderRadius":"12px"}} src="https://open.spotify.com/embed/playlist/37i9dQZF1DX1T2fEo0ROQ2?utm_source=generator&theme=0" width="90%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy">
-  </iframe>
-
-
-
-
-
-
   <div className='section3'>
   <div className="duringCov"> 
         {products.duringcovid.map(duringcovid =>
@@ -183,7 +180,7 @@ Calm music for relaxation:
         )}
       </div>
         <h2> Post-Viral Care </h2>
-    <p>  Congratulations! So you made out of the acute phase of the virus, sometimes the worst part. 
+    <p>  Congratulations! You made out of the acute phase of the virus-- sometimes the worst part. 
     <br />
     Let's begin the healing: </p>
         First, keep taking foods that can thin the blood and reduce chances of blood clots daily: turmeric, garlic, cayenne pepper, ginger, cinnamon, primrose oil, aloe, etc. for about 2-3 months. 
@@ -200,10 +197,10 @@ Calm music for relaxation:
         </div>
       )}
     </div>
-    If you're still having linger symptoms after 2-3 months, there are many resources to help you find ways to manage or heal from those symptoms: 
+    If you still have lingering symptoms after 2-3 months, there are resources to help you find ways to manage or heal: 
     <a href='https://www.facebook.com/search/groups/?q=long%20covid%20'> a quick search on facebook shows you many communities. </a>
     <br /> <br />
-    Note: Use condoms for 8 months after onset of the virus, to avoid exchanging viral loads, even after testing negative on oral & nasal tests. 
+    Note: Use condoms for about <a href="https://www.auajournals.org/doi/10.1097/01.JU.0001109764.27496.08.09">8 months after onset of the virus,</a> to avoid exchanging viral loads, even after testing negative on oral & nasal tests. 
     </div>
     </div>
 
@@ -226,7 +223,7 @@ Calm music for relaxation:
      2. People's CDC <a href="https://peoplescdc.org/what-to-do-if-you-have-covid/"> peoplescdc.org/what-to-do-if-you-have-covid </a>
      <br />
       3. Expert advice on how to avoid infection while caring for others <a href='https://substack.com/home/post/p-169629289'> substack.com/home/post/p-169629289 </a>
-
+      <br />
       4. Collection of studies <a href='https://c19early.org/'> c19early.org </a>
     
       </p> 
