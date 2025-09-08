@@ -61,10 +61,10 @@ function App() {
       <br /> 
       <p> 
      <h2> Prevent Covid: </h2>
-  This guide could save you hundreds of dollars in medical bills, and heartache. <br /> 
+  This guide could save you hundreds of dollars in medical bills and heartache. <br /> 
   If you follow this protocol, you may never get infected again. </p> 
     <br /> 
-  <p> Reminder: "higher risk" can technically be EVERYONE, and especially person  <a href="https://nosscr.org/disability-recipients-nearly-7-times-more-likely-to-die-of-covid-19-according-to-ssa-data/"> who have disabilities</a>, <a href='https://pmc.ncbi.nlm.nih.gov/articles/PMC8586903/'> are Brown and/or Black</a>, <a href="https://www.them.us/story/long-covid-trans-and-bisexual-people-healthcare-disparities" > as well those who are trans and queer</a>. 
+  <p> Reminder: "Higher risk" can technically be EVERYONE, especially person  <a href="https://nosscr.org/disability-recipients-nearly-7-times-more-likely-to-die-of-covid-19-according-to-ssa-data/"> who have disabilities</a>, <a href='https://pmc.ncbi.nlm.nih.gov/articles/PMC8586903/'> are Brown and/or Black</a>, <a href="https://www.them.us/story/long-covid-trans-and-bisexual-people-healthcare-disparities" > as well those who are trans and queer</a>. 
   <br />
  Almost <a href="https://pmc.ncbi.nlm.nih.gov/articles/PMC9935239/"> half of Covid infections are asymptomatic. </a> 
  <br /> 
@@ -104,7 +104,7 @@ function App() {
   <p>
   1. Physically isolate. Even if you and others have the 'same virus,' you can swap the viral load and regress progress your body makes. Even if you share a space, ensure you use barriers like air purifiers and ventilation for the airborne SARS viruses. 
   <br /> 
-  2. Rest - prioritize quality sleep, and psychological wellbeing 
+  2. Rest - prioritize quality sleep & psychological well-being 
    <br /> 
   3. Medicate 
   <br /> 
@@ -117,11 +117,7 @@ function App() {
   </p>
 
   <br />
-  Calm music for relaxation: 
 
-
-  <iframe style={{"borderRadius":"12px"}} src="https://open.spotify.com/embed/playlist/37i9dQZF1DX1T2fEo0ROQ2?utm_source=generator&theme=0" width="90%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy">
-  </iframe>
 
 
 
@@ -162,7 +158,11 @@ function App() {
 
   </div>
 </div>
+  Calm music for relaxation: 
 
+
+  <iframe style={{"borderRadius":"12px"}} src="https://open.spotify.com/embed/playlist/37i9dQZF1DX1T2fEo0ROQ2?utm_source=generator&theme=0" width="90%" height="152" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture" loading="lazy">
+  </iframe>
   <div className='section3'>
   <div className="duringCov"> 
         {products.duringcovid.map(duringcovid =>
@@ -177,8 +177,11 @@ function App() {
           </div> 
           //https://colours.neilorangepeel.com/category/blue/
           
-        )}
+        )
+      }
+        
       </div>
+
         <h2> Post-Viral Care </h2>
     <p>  Congratulations! You made out of the acute phase of the virus-- sometimes the worst part. 
     <br />
