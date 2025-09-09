@@ -122,6 +122,14 @@
   "description" : "Sleep aid",
   "alttext" : "Melatonin"
   },  
+  {"className" : "Antihistamines",
+  "imglink" : "https://www.ukmeds.co.uk/blog/how-much-antihistamine-can-i-take-in-24-hours",
+  "imgsrc" : "https://www.ukmeds.co.uk/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F64338%2F1728375990-shutterstock_2203047353.jpg&w=3840&q=75",
+  "buttonprice" : "$20",
+  "buttonlink" : "https://scienceinsider.blog/antihistamines-covid-therapy/",
+  "description" : "Antihistamines/ allergy meds",
+  "alttext" : "Antihistamines"
+  },
   {"className" : "Cannabis",
   "imglink" : "https://academic.oup.com/jambio/article/134/1/lxac036/6902073",
   "imgsrc" : "https://cdn.britannica.com/38/205238-050-8BD2530A/Close-up-marijuana-plant.jpg",
