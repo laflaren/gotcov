@@ -175,12 +175,23 @@ function App() {
           </button></a>
         
           </div> 
+          
           //https://colours.neilorangepeel.com/category/blue/
           
         )
       }
         
       </div>
+
+<div style={{position:"relative",paddingBottom:"56.25%",height:0,overflow:"hidden"}}>
+  <iframe src="https://geo.dailymotion.com/player.html?video=x8mebbk"
+    style={{width:"100%", height:"100%", position:"absolute", left:"0px", top:"0px", overflow:"hidden", border:"none"}}
+    allowfullscreen
+    title="Dailymotion Video Player"
+    allow="web-share">
+  </iframe>
+</div>
+
 
         <h2> Post-Viral Care </h2>
     <p>  Congratulations! You made out of the acute phase of the virus-- sometimes the worst part. 
