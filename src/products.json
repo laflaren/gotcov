@@ -47,7 +47,7 @@
  "duringcovid" : 
  [ {"className" : "Sunlight",
  "imglink" : "https://www.cedars-sinai.org/newsroom/study-reveals-ultraviolet-light-exposure-has-antiviral-effects-on-covid-19-variants/",
- "imgsrc" : "https://media-cldnry.s-nbcnews.com/image/upload/t_fit-560w,f_avif,q_auto:eco,dpr_2/newscms/2017_13/1204667/woman-breathing-outside-cold-stock-today-170331-tease.jpg",
+ "imgsrc" : "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.publicdomainpictures.net%2Fpictures%2F30000%2Fvelka%2Frayos-de-sol.jpg&f=1&nofb=1&ipt=4db6ad2734862103d18b354016dd0d889c24182b932881bd54eb06a77a28ae6f",
  "buttonprice" : " ",
  "buttonlink" : "https://www.cedars-sinai.org/newsroom/study-reveals-ultraviolet-light-exposure-has-antiviral-effects-on-covid-19-variants/",
  "description" : "Sunlight",
@@ -56,7 +56,7 @@
 {
   "className" : "SeparateEveryone",
   "imglink" : "https://whn.global/guidelines/taking-care-of-an-ill-person/",
-  "imgsrc" : "https://themarkconsulting.com/wp-content/uploads/2015/07/fish.jpg",
+  "imgsrc" : "https://www.news-medical.net/image-handler/ts/20220301085147/ri/1200/src/images/news/ImageForNews_705821_16461427064259712.jpg",
   "buttonprice" : " ",
   "buttonlink" : "https://duckduckgo.com/?q=hotels+near+me&t=ffab&ia=web",
   "description" : "Isolate",
@@ -270,7 +270,7 @@
   "imgsrc" : "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fcdn7.dissolve.com%2Fp%2FD145_198_859%2FD145_198_859_1200.jpg&f=1&nofb=1&ipt=52ceb2c0de6404ecf9c62e39845e36ca3d7d4b0126e91f47f4d6f7a12b028e37",
   "buttonprice" : "",
   "buttonlink" :"https://www.nature.com/articles/s41598-023-49702-0",
-  "description" : "Nature Therapy",
+  "description" : "Exposure to nature",
   "alttext" : "A Black man is smiling while repoting plants on a table"
   },
   {"className" : "VagusNerve",
@@ -286,7 +286,7 @@
   "imgsrc" : "https://www.nulatex.com/wp-content/uploads/2024/04/10.-Dental-Dams-vs.-Condoms-e1712544472225-2048x1024.png",
   "buttonprice" : "",
   "buttonlink" : "https://www.auajournals.org/doi/10.1097/01.JU.0001109764.27496.08.09",
-  "description" : "Vagus Nerve Stimulation",
+  "description" : "Sexual Protection for 8 months",
   "alttext" : "Dental dams and penile condoms"
   }
 ]}
