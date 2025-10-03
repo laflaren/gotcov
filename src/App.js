@@ -45,8 +45,9 @@ function App() {
       <br /> 
       is easy & affordable </h1>
           <h4> 
-      Prevent & recover from SARS/2      
-      <br /> using scientific studies, simple tools you have 
+      Prevent & recover from SARS/2 
+      <br /> 
+      using scientifically-proven, simple tools you have 
           </h4>
 
         <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Coronavirus._SARS-CoV-2.png/1920px-Coronavirus._SARS-CoV-2.png" className="App-logo" alt="SARS virus rotating" />
@@ -129,7 +130,7 @@ function App() {
   <li> ASK FOR HELP. This is what friends and family are for. Ask for help with meals and medications. It can be hard, but do it first to get it out of the ways. </li>
   <li> Play calming music - playlist suggestion below </li>
   <li> Paxlovid or other antiviral </li>
-  <li> Clean nasal passages with neti pot, OR moisten nostrils with shower or warm beverage, blow nose, and spray nostrils with nasal spray </li>
+  <li> Clean nasal passages: Steam with a shower or warm beverage to moisten nostrils, blow nose, and spray nostrils with nasal spray </li>
   <li> Outside sunlight as much as possible/ unmasked as much as possible to release viral load. </li>
   <li> Drink and GARGLE tea to disrupt virus's replication in the back of the throat </li>
   <li> Metformin </li>
@@ -146,7 +147,7 @@ function App() {
   <ol> 🌙 Evening: </ol>
   <li> Paxlovid or other antiviral </li>
   <li> Outside sunlight as much as possible/ unmasked as much as possible to realease viral load. </li>
-  <li> Clean nasal passages with neti pot, OR moisten nostrils with shower or warm beverage, blow nose, and spray nostrils with nasal spray </li>
+  <li> Clean nasal passages: Steam with a shower or warm beverage to moisten nostrils, blow nose, and spray nostrils with nasal spray </li>
   <li> Gargle herbal tea </li>
   <li> Metformin </li>
   <li> Probiotics -- to balance gut health after the antivirals and antibiotic of the oregano oil, and assist with sleep.  </li>
