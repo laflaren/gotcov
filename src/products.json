@@ -22,7 +22,7 @@
   "imgsrc" : "https://www.cvs.com/bizcontent/merchandising/productimages/high_res/70059600000.jpg?im=Resize=(1000,1000),aspect=ignore",
   "buttonprice" : "$15",
   "buttonlink" : "https://xlear.com/product/xylitol-and-saline-nasal-spray-1-5-fl-oz-metered-dose/",
-  "description" : "Nasal spray: Xylitol",
+  "description" : "Xylitol-based nasal spray",
   "alttext" : "Xilytol nasal spray"
 },
 
@@ -47,7 +47,7 @@
  "duringcovid" : 
  [ {"className" : "Sunlight",
  "imglink" : "https://www.cedars-sinai.org/newsroom/study-reveals-ultraviolet-light-exposure-has-antiviral-effects-on-covid-19-variants/",
- "imgsrc" : "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.publicdomainpictures.net%2Fpictures%2F30000%2Fvelka%2Frayos-de-sol.jpg&f=1&nofb=1&ipt=4db6ad2734862103d18b354016dd0d889c24182b932881bd54eb06a77a28ae6f",
+ "imgsrc" : "https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.sciencenewsforstudents.org%2Fwp-content%2Fuploads%2F2019%2F11%2Fsun_free.jpg&f=1&nofb=1&ipt=e446bdd8460ed2ef03860b1be512cd9898441bc69e48f435e338384e43b0e346",
  "buttonprice" : " ",
  "buttonlink" : "https://www.cedars-sinai.org/newsroom/study-reveals-ultraviolet-light-exposure-has-antiviral-effects-on-covid-19-variants/",
  "description" : "Sunlight",
@@ -82,7 +82,7 @@
  },
  {
   "className" : "SeekHelp",
-  "imglink" : "https://thumbs.dreamstime.com/b/sick-office-employee-sneezing-man-wrapped-warm-blanket-phone-call-suffering-cold-fever-flu-sick-office-employee-sneezing-357485012.jpg",
+  "imglink" : "https://duckduckgo.com/?t=ffab&q=what+are+friends+for+&ia=web",
   "imgsrc" : "https://thumbs.dreamstime.com/b/sick-office-employee-sneezing-man-wrapped-warm-blanket-phone-call-suffering-cold-fever-flu-sick-office-employee-sneezing-357485012.jpg",
   "buttonprice" : " ",
   "buttonlink" : "https://duckduckgo.com/?t=ffab&q=what+are+friends+for+&ia=web",

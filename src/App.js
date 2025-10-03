@@ -98,7 +98,7 @@ function App() {
 
     
     <div className='section2'>
-    <h2> Managing an active infection: </h2>
+    <h2> Manage infection: </h2>
   <p> The key is to lower the viral load and discourage replication.  </p>
  
   <h5> Objectives: </h5>
@@ -184,15 +184,16 @@ function App() {
         
       </div>
 
-<div style={{position:"relative",paddingBottom:"56.25%",height:0,overflow:"hidden"}}>
+<div style={{position:"relative", height:"500px", display: "flex", justifyContent:"center"}}>
   <iframe src="https://geo.dailymotion.com/player.html?video=x8mebbk"
-    style={{width:"100%", height:"100%", position:"absolute", left:"0px", top:"0px", overflow:"hidden", border:"none"}}
+    style={{width:"500px", height:"500px", position:"absolute", border:"none"}}
     allowfullscreen
     title="Dailymotion Video Player"
     allow="web-share">
   </iframe>
 </div>
-
+Vagus nerve exercise to help calm inflammation
+<br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> <br /> 
 
         <h2> Post-Viral Care </h2>
     <p>  Congratulations! You made out of the acute phase of the virus-- sometimes the worst part. 
